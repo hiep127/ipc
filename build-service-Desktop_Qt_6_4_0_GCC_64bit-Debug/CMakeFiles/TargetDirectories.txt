@@ -1,0 +1,7 @@
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/service.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/hiep/ipc/build-service-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
